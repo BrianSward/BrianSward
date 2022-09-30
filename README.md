@@ -2,21 +2,11 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/brian-sward/)
 
-<!--
-**BrianSward/BrianSward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
- <!-- ![my great header](put relative path here) -->
- <!-- go to icons8.com get icons for social media, download them -->
- <!-- <p align="center">USE LINKEDIN LINK HERE with <a href=""> </P>-->
+- 🔭 I’m currently working on my advanced certification in Python Development
+- 🌱 I’m currently learning at Code Fellows in Seattle, WA
+- 👯 I’m looking to collaborate on open source projects where I can contribute with my ample math yet and burgoning programming skills
+- 💬 Ask me about my dog named Chickpea
+- 📫 How to reach me: Check me out at [linkedin](https://www.linkedin.com/in/brian-sward/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: 
