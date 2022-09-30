@@ -1,4 +1,6 @@
-### Hi there 👋
+[![Brian's GitHub Banner](./assets/git_title.png)]
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/brian-sward/)
 
 <!--
 **BrianSward/BrianSward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ <!-- ![my great header](put relative path here) -->
+ <!-- go to icons8.com get icons for social media, download them -->
+ <!-- <p align="center">USE LINKEDIN LINK HERE with <a href=""> </P>-->
