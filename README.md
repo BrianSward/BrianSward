@@ -9,4 +9,4 @@
 - 📫 How to reach me: Check me out at [LinkedIn](https://www.linkedin.com/in/brian-sward/).
 - 😄 Pronouns: He/Him
 - Skills: Python, JavaScript, REACT, SQL, Excel, Lean/Six Sigma Green Belt
-- Hobbies: Table Top Stratgit Games, Running, Maths
+- Hobbies: Table Top Strategy Games, Running, Maths
