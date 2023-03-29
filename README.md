@@ -8,5 +8,5 @@
 - 💬 Ask me about my dog. Her name is [Chickpea](https://www.instagram.com/chickpeaster/).
 - 📫 How to reach me: Check me out at [briansward.com](http://www.briansward.com).
 - 😄 Pronouns: He/Him
-- Skills: Python, Django, Django REST, JavaScript, REACT, SQL, Excel, Lean/Six Sigma Green Belt, Agile/Waterfall Methods
+- Skills: Python, Django, Django REST, Flask, JavaScript, REACT, SQL, Excel, Lean/Six Sigma Green Belt, Agile/Waterfall Methods
 - Hobbies: Table Top Strategy Games, Running, Maths
